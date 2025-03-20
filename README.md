@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=gold">
     <img src="https://img.shields.io/github/actions/workflow/status/Starfall-248a/WMU-Base/pros-build.yml?branch=main&style=for-the-badge&color=gold">
     <img src="https://img.shields.io/github/stars/Starfall-248a/WMU-Base?style=for-the-badge&color=gold">
 </p>
