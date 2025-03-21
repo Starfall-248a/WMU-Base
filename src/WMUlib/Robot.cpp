@@ -1,10 +1,8 @@
 #include "main.h"
-#include "keejLib/controller.h"
-#include "keejLib/chassis.h"
+
 #include "pros/motor_group.hpp"
 
 pros::Controller controller_pros(pros::E_CONTROLLER_MASTER);
-keejLib::Controller controller_lib(controller_pros);
 
 /* Drive motors*/
 pros::MotorGroup driveLeft({1, 2, 3, 4}); // Front to back
